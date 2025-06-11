@@ -6,7 +6,7 @@
 🌱 I’m currently learning everything I can about **MERN Stack** and sharpening my **DSA skills**  
 💻 I regularly solve problems on platforms like LeetCode and GFG  
 🚀 I'm working on personal projects to build a strong portfolio  
-📫 Reach me at: **anuragbansod590@gmail.com**  
+📫 Reach me at: **anuragpbansod@gmail.com**  
 📍 Based in **Nagpur, India**  
 🤝 Open to collaborating on **Web Development Projects and DSA practice**
 
